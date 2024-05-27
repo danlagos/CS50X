@@ -1,0 +1,3 @@
+[submodule "1-week/libcs50"]
+	path = 1-week/libcs50
+	url = https://github.com/cs50/libcs50.git
