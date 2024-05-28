@@ -10,4 +10,3 @@
     - Look at manual pages for info on header files.
     - link:  manual.cs50.io
     - CS50X has its own header file: cs50.h
-    - format codes
